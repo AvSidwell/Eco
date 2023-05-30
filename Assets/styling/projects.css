@@ -51,6 +51,11 @@ html {
   height: 30rem;
   box-shadow: 1px 1px 2px #b493d6, 1px -1px 2px #f4c7ff;
 }
+.bg-color-1:hover {
+  height: 30.2rem;
+  background-color:  #eeabff;
+  box-shadow: 7px 7px 14px #b493d6, 7px -7px 14px #f4c7ff;
+}
 
 .footer-color {
   background-color: #393646;
