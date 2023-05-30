@@ -1,0 +1,62 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.nav-style {
+  background-color: #393646;
+}
+
+.head-text {
+  border-radius: 10px;
+}
+
+.head-text:hover {
+  color: #1d267d !important;
+  box-shadow: 2px 2px 4px #19206a, -2px -2px 4px #212c90;
+}
+
+.image {
+  background-image: url(../Assets/images/11.avif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 190vh;
+  width: 100%;
+}
+
+.margin-t {
+  margin-top: 5.5rem !important;
+}
+
+.footer-color {
+  background-color: #393646;
+}
+
+.nav-style {
+  background-color: #393646;
+}
+
+.prev-price-text {
+  text-decoration: line-through;
+}
+
+.bg-color-1 {
+  color: #0c134f !important;
+  /*background-color: #d4adfc !important;*/
+  background-color: transparent;
+  height: 30rem;
+  box-shadow: 1px 1px 2px #b493d6, 1px -1px 2px #f4c7ff;
+}
+
+.footer-color {
+  background-color: #393646;
+}
+
+.text-h {
+    color: #0c134f !important;
+    background-color: #d4adfc !important;
+}

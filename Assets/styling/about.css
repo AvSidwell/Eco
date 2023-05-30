@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.nav-style {
+  background-color: #393646;
+}
+
+.footer-color {
+  background-color: #393646;
+}
+
+.nav-style {
+  background-color: #393646;
+}
+
+.footer-color {
+  background-color: #393646;
+}
+
+.backround-img {
+  background-image: url(../images/11.avif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.definate {
+  position: relative;
+  top: 100px;
+  left: 400px;
+  color: #0c134f;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  background-color:  #d4adfc;
+  padding: 10px;
+  width: 25rem;
+  border-radius: 1rem;
+}
+.definate2 {
+  position: relative;
+  top: 300px;
+  left: 300px;
+  font-weight: bolder;
+  font-size: 2.7rem;
+  color: #0c134f;
+}

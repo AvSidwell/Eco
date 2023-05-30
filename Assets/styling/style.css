@@ -1,0 +1,88 @@
+/* #5C469C */
+/* #D4ADFC */
+/* #1D267D */
+/* #0C134F */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+.nav-style {
+  background-color: #393646;
+}
+
+.head-text {
+  border-radius: 10px;
+}
+
+.head-text:hover {
+  color: #1d267d !important;
+  box-shadow: 2px 2px 4px #19206a, -2px -2px 4px #212c90;
+}
+
+.cont-content {
+  background-image: url(https://i.postimg.cc/TYD8k73Q/2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 77vh;
+}
+.home-text-1 {
+  position: relative;
+  top: 4.5rem;
+  left: 30rem;
+  font-weight: bolder;
+  color: #0c134f;
+}
+.home-text-2 {
+  position: relative;
+  top: 10rem;
+  left: 2rem;
+  font-weight: bolder;
+  color: #d4adfc;
+}
+.home-text-3 {
+  position: relative;
+  top: 10rem;
+  left: 2rem;
+  font-weight: bolder;
+  font-size: 2.7rem;
+  color: #d4adfc;
+}
+
+.plaure {
+  height: 200px;
+}
+
+.prod-card {
+  height: 5rem;
+  width: 5rem;
+}
+
+.prod-container {
+  background-color: #0c134f;
+}
+
+.card-text {
+  background-color: #d4adfc;
+  border-radius: 1rem;
+  width: 100%;
+  text-align: center;
+}
+
+.prev-price-text {
+  text-decoration: line-through;
+}
+
+.bg-color-1 {
+  color: #0c134f !important;
+  background-color: #d4adfc !important;
+}
+
+.footer-color {
+  background-color: #393646;
+}
